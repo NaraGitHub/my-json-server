@@ -1,6 +1,6 @@
 [
 {
-"id:" 900,
+"id": 900,
 "name": "Opportunities + Revenue Backlog",
 "parent_id": null,
 "est_comp_date": null,
@@ -11,7 +11,7 @@
 "subtitle": "Real time"
 },
 {
-"id:" 1000,
+"id": 1000,
 "name": "Receivables",
 "parent_id": null,
 "est_comp_date": null,
