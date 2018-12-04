@@ -1,0 +1,145 @@
+[
+{
+id: 900,
+name: "Opportunities + Revenue Backlog",
+parent_id: null,
+est_comp_date: null,
+comp_date: null,
+prev_month: null,
+st_of_data: false,
+update_freq: 1,
+subtitle: "Real time"
+},
+{
+id: 1000,
+name: "Receivables",
+parent_id: null,
+est_comp_date: null,
+comp_date: null,
+prev_month: null,
+st_of_data: false,
+update_freq: 2,
+subtitle: "Daily by 7am US CST"
+},
+{
+id: 100,
+name: "Revenue Actuals",
+parent_id: null,
+est_comp_date: null,
+comp_date: null,
+prev_month: "2018-01-01",
+st_of_data: true,
+update_freq: 3,
+subtitle: "End of 4th business day until end of 7th business day "
+},
+{
+id: 200,
+name: "Sales Actuals",
+parent_id: null,
+est_comp_date: null,
+comp_date: null,
+prev_month: "2018-01-01",
+st_of_data: true,
+update_freq: 4,
+subtitle: "End of 5th business day until the end of 7th business day"
+},
+{
+id: 300,
+name: "Working Capital & DSO",
+parent_id: null,
+est_comp_date: null,
+comp_date: null,
+prev_month: "2018-01-01",
+st_of_data: true,
+update_freq: 5,
+subtitle: "End of 5th business day until the end of 10th business day"
+},
+{
+id: 400,
+name: "Cost To Serve",
+parent_id: null,
+est_comp_date: null,
+comp_date: null,
+prev_month: "2018-01-01",
+st_of_data: true,
+update_freq: 6,
+subtitle: "End of 8th business day of each month"
+},
+{
+id: 500,
+name: "DCS Actuals",
+parent_id: null,
+est_comp_date: null,
+comp_date: null,
+prev_month: "2018-01-01",
+st_of_data: true,
+update_freq: 7,
+subtitle: "End of 9th business day of each month"
+},
+{
+id: 600,
+name: "Business Development",
+parent_id: null,
+est_comp_date: null,
+comp_date: null,
+prev_month: "2018-06-01",
+st_of_data: true,
+update_freq: 8,
+subtitle: "End of 9th business day of each month"
+},
+{
+id: 700,
+name: "Consulting Practice",
+parent_id: null,
+est_comp_date: null,
+comp_date: null,
+prev_month: "2018-05-01",
+st_of_data: true,
+update_freq: 9,
+subtitle: "End of 9th business day of each month"
+},
+{
+id: 800,
+name: "Chargeability",
+parent_id: null,
+est_comp_date: null,
+comp_date: null,
+prev_month: "2018-06-01",
+st_of_data: true,
+update_freq: 10,
+subtitle: "End of 4th business day of each month"
+},
+{
+id: 1100,
+name: "Annual Plan",
+parent_id: null,
+est_comp_date: null,
+comp_date: null,
+prev_month: null,
+st_of_data: false,
+update_freq: 11,
+subtitle: "End of 4th business day of each month"
+},
+{
+id: 1200,
+name: "Last Forcast",
+parent_id: null,
+est_comp_date: null,
+comp_date: null,
+prev_month: null,
+st_of_data: false,
+update_freq: 12,
+subtitle: "End of 4th business day of each month"
+},
+{
+id: 1300,
+name: "Fx Adjusted",
+parent_id: null,
+est_comp_date: null,
+comp_date: null,
+prev_month: null,
+st_of_data: false,
+update_freq: 13,
+subtitle: "End of 4th business day of each month"
+}
+]
