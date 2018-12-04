@@ -1,25 +1,25 @@
 [
 {
 "id:" 900,
-name: "Opportunities + Revenue Backlog",
-parent_id: null,
-est_comp_date: null,
-comp_date: null,
-prev_month: null,
-st_of_data: false,
-update_freq: 1,
-subtitle: "Real time"
+"name": "Opportunities + Revenue Backlog",
+"parent_id": null,
+"est_comp_date": null,
+"comp_date": null,
+"prev_month": null,
+"st_of_data": false,
+"update_freq": 1,
+"subtitle": "Real time"
 },
 {
 "id:" 1000,
-name: "Receivables",
-parent_id: null,
-est_comp_date: null,
-comp_date: null,
-prev_month: null,
-st_of_data: false,
-update_freq: 2,
-subtitle: "Daily by 7am US CST"
+"name": "Receivables",
+"parent_id": null,
+"est_comp_date": null,
+"comp_date": null,
+"prev_month": null,
+"st_of_data": false,
+"update_freq": 2,
+"subtitle": "Daily by 7am US CST"
 },
 {
 "id": 100,
