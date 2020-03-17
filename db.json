@@ -1,1 +1,47 @@
-[{"EmployeeID":1,"FirstName":"Narayanan","LastName":"Devaraj Naidu","DateOfBirth":"1990-01-01T00:00:00","Designation":"TeamLeadAzureWorks"},{"EmployeeID":3,"FirstName":"John","LastName":"Milton","DateOfBirth":"1995-01-01T00:00:00","Designation":"Team Leader Azure"},{"EmployeeID":4,"FirstName":"Michael","LastName":"Vire","DateOfBirth":"1980-01-01T00:00:00","Designation":"Senior Manager"}]
+[
+  {
+    "customerId": 2001,
+    "firstName": "James",
+    "lastName": "Butt",
+    "city": "New Orleans",
+    "zipcode": "70116",
+    "country": "USA",
+    "isActive": true
+  },
+  {
+    "customerId": 2002,
+    "firstName": "Josephine",
+    "lastName": "Darakjy",
+    "city": "Brighton",
+    "zipcode": "48116",
+    "country": "USA",
+    "isActive": true
+  },
+  {
+    "customerId": 1003,
+    "firstName": "Art",
+    "lastName": "Venere",
+    "city": "Bridgeport",
+    "zipcode": "8014",
+    "country": "USA",
+    "isActive": true
+  },
+  {
+    "customerId": 1004,
+    "firstName": "Lenna",
+    "lastName": "Paprocki",
+    "city": "Anchorage",
+    "zipcode": "99501",
+    "country": "USA",
+    "isActive": true
+  },
+  {
+    "customerId": 1005,
+    "firstName": "Donette",
+    "lastName": "Foller",
+    "city": "Hamilton",
+    "zipcode": "45011",
+    "country": "USA",
+    "isActive": true
+  }
+]
